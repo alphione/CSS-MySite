@@ -1,0 +1,163 @@
+/* tag-selector */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #424874;
+}
+
+h2 {
+    color: #A6B1E1;
+    font-family: 'Inspiration', cursive;
+    font-size: 4rem;
+    font-weight: normal;
+    line-height: 1;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #cac0f6;
+    font-size: 26px;
+}
+
+
+/* top-container */
+
+
+
+.Top-container {
+    background-color: #F4EEFF;
+    position: relative;
+    padding-top: 100px;
+    font-size: 34px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 207px;
+    top: 291px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px; 
+}
+
+
+
+/* middle-container */
+
+
+
+.profile p {
+    padding: 0px 440px;
+    line-height: 36px;
+}
+
+
+#myimage {
+    border-radius: 30%;
+    height: 200px;
+    margin-top: 45px;
+    width: 200px;
+
+}
+
+.parastyle {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #545b6c;
+    line-height: 33px;
+}
+
+.hr{
+    border-style: dotted none none none;
+    color: #DCD6F7;
+    width: 58px;
+    border-width: 6px;
+    
+}
+
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+
+}
+
+.skill-image1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-image2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.contact-me a { 
+    background-color: #A6B1E1;
+    border: 25px solid #A6B1E1;
+    border-radius: 47px;
+    color: white;
+    font-size: 20px;
+    line-height: 154px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #8398f5;
+    border-color: #8398f5;
+}
+
+.contact-me p {
+    padding: 0px 457px;
+}
+
+
+/* bottom-container */
+
+
+
+.bottom-container {
+    background-color: #F4EEFF;
+    height: 150px;
+}
+
+.footer-link {
+    position: relative;
+    top: 40px;
+    right: 15px;
+    color: #424874;
+    text-decoration: none;
+    padding: 0px 38px;
+}
+
+.footer-link:hover {
+    color: #A6B1E1;
+}
+
+.copyright {
+    position: relative;
+    top: 87px;
+    margin: 0 auto 0 auto;
+    color: #424874;
+}
